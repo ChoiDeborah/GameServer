@@ -3,16 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2C6AE39F-0F2E-408B-8793-265981BCD313}|GameServer\\GameServer.vcxproj|C:\\Users\\deborah\\Desktop\\Git\\GameServer\\GameServer\\GameServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C6AE39F-0F2E-408B-8793-265981BCD313}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\GameServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE39F-0F2E-408B-8793-265981BCD313}|GameServer\\GameServer.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\THREAD||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE39F-0F2E-408B-8793-265981BCD313}|GameServer\\GameServer.vcxproj|C:\\USERS\\DEBORAH\\DESKTOP\\GIT\\GAMESERVER\\SERVERCORE\\COREPCH.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C6AE39F-0F2E-408B-8793-265981BCD313}|GameServer\\GameServer.vcxproj|solutionrelative:SERVERCORE\\COREPCH.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C6AE39F-0F2E-408B-8793-265981BCD313}|GameServer\\GameServer.vcxproj|C:\\Users\\deborah\\Desktop\\Git\\GameServer\\GameServer\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2C6AE39F-0F2E-408B-8793-265981BCD313}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C6AE39F-0F2E-408B-8793-265981BCD313}|GameServer\\GameServer.vcxproj|C:\\Users\\deborah\\Desktop\\Git\\GameServer\\GameServer\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2C6AE39F-0F2E-408B-8793-265981BCD313}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6AE39F-0F2E-408B-8793-265981BCD313}|GameServer\\GameServer.vcxproj|C:\\Users\\deborah\\Desktop\\Git\\GameServer\\GameServer\\GameServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2C6AE39F-0F2E-408B-8793-265981BCD313}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\GameServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E344185-37CF-48D4-AEF9-07979593A9C7}|ServerCore\\ServerCore.vcxproj|C:\\Users\\deborah\\Desktop\\Git\\GameServer\\ServerCore\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -25,10 +32,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9E344185-37CF-48D4-AEF9-07979593A9C7}|ServerCore\\ServerCore.vcxproj|C:\\Users\\deborah\\Desktop\\Git\\GameServer\\ServerCore\\CorePch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9E344185-37CF-48D4-AEF9-07979593A9C7}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\CorePch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E344185-37CF-48D4-AEF9-07979593A9C7}|ServerCore\\ServerCore.vcxproj|C:\\Users\\deborah\\Desktop\\Git\\GameServer\\ServerCore\\CorePch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E344185-37CF-48D4-AEF9-07979593A9C7}|ServerCore\\ServerCore.vcxproj|solutionrelative:ServerCore\\CorePch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E344185-37CF-48D4-AEF9-07979593A9C7}|ServerCore\\ServerCore.vcxproj|C:\\Users\\deborah\\Desktop\\Git\\GameServer\\ServerCore\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -50,30 +53,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "pch.cpp",
-              "DocumentMoniker": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\GameServer\\pch.cpp",
-              "RelativeDocumentMoniker": "GameServer\\pch.cpp",
-              "ToolTip": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\GameServer\\pch.cpp",
-              "RelativeToolTip": "GameServer\\pch.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "GameServer.cpp",
+              "DocumentMoniker": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\GameServer\\GameServer.cpp",
+              "RelativeDocumentMoniker": "GameServer\\GameServer.cpp",
+              "ToolTip": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\GameServer\\GameServer.cpp",
+              "RelativeToolTip": "GameServer\\GameServer.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-24T04:21:28.241Z",
+              "WhenOpened": "2024-06-24T00:19:31.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "thread",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\thread",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\thread",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\thread",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\thread",
+              "ViewState": "AQIAADIAAAAAAAAAAAAUwDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-25T06:43:49.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "pch.h",
               "DocumentMoniker": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\GameServer\\pch.h",
               "RelativeDocumentMoniker": "GameServer\\pch.h",
               "ToolTip": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\GameServer\\pch.h",
               "RelativeToolTip": "GameServer\\pch.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-24T04:21:25.949Z",
               "EditorCaption": ""
@@ -81,19 +97,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GameServer.cpp",
-              "DocumentMoniker": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\GameServer\\GameServer.cpp",
-              "RelativeDocumentMoniker": "GameServer\\GameServer.cpp",
-              "ToolTip": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\GameServer\\GameServer.cpp",
-              "RelativeToolTip": "GameServer\\GameServer.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-24T00:19:31.081Z",
+              "Title": "CorePch.h",
+              "DocumentMoniker": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\ServerCore\\CorePch.h",
+              "RelativeDocumentMoniker": "ServerCore\\CorePch.h",
+              "ToolTip": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\ServerCore\\CorePch.h",
+              "RelativeToolTip": "ServerCore\\CorePch.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-24T04:08:33.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "pch.h",
               "DocumentMoniker": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\ServerCore\\pch.h",
               "RelativeDocumentMoniker": "ServerCore\\pch.h",
@@ -101,12 +117,23 @@
               "RelativeToolTip": "ServerCore\\pch.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-24T04:03:43.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T04:03:43.355Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\GameServer\\pch.cpp",
+              "RelativeDocumentMoniker": "GameServer\\pch.cpp",
+              "ToolTip": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\GameServer\\pch.cpp",
+              "RelativeToolTip": "GameServer\\pch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T04:21:28.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Types.h",
               "DocumentMoniker": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\ServerCore\\Types.h",
               "RelativeDocumentMoniker": "ServerCore\\Types.h",
@@ -114,12 +141,11 @@
               "RelativeToolTip": "ServerCore\\Types.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-24T04:10:05.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T04:10:05.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CorePch.cpp",
               "DocumentMoniker": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\ServerCore\\CorePch.cpp",
               "RelativeDocumentMoniker": "ServerCore\\CorePch.cpp",
@@ -127,25 +153,11 @@
               "RelativeToolTip": "ServerCore\\CorePch.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-24T04:08:40.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T04:08:40.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CorePch.h",
-              "DocumentMoniker": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\ServerCore\\CorePch.h",
-              "RelativeDocumentMoniker": "ServerCore\\CorePch.h",
-              "ToolTip": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\ServerCore\\CorePch.h",
-              "RelativeToolTip": "ServerCore\\CorePch.h",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAwAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-24T04:08:33.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "pch.cpp",
               "DocumentMoniker": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\ServerCore\\pch.cpp",
               "RelativeDocumentMoniker": "ServerCore\\pch.cpp",
@@ -153,12 +165,11 @@
               "RelativeToolTip": "ServerCore\\pch.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-24T04:46:13.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T04:46:13.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "pch.h",
               "DocumentMoniker": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\DummyClient\\pch.h",
               "RelativeDocumentMoniker": "DummyClient\\pch.h",
@@ -170,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DummyClient.cpp",
               "DocumentMoniker": "C:\\Users\\deborah\\Desktop\\Git\\GameServer\\DummyClient\\DummyClient.cpp",
               "RelativeDocumentMoniker": "DummyClient\\DummyClient.cpp",
